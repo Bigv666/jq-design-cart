@@ -30,7 +30,7 @@
     "@babel/core": "^7.9.6",
     "@babel/plugin-proposal-decorators": "^7.10.1",
     "@babel/preset-env": "^7.9.6",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-loader": "^8.1.0",
     "jquery": "^3.5.1",
     "url-loader": "^4.1.0"
